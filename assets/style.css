@@ -1,0 +1,20 @@
+.st-emotion-cache-ukvpxj {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color:bisque;
+}
+
+.diagnosis{
+    color:blanchedalmond ;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+}
+
+.diagnosis.diabetic {
+    background-color:rgb(153, 11, 11);
+}
+
+.diagnosis.Not_diabetic {
+    background-color:rgb(11, 130, 33);
+}
+
