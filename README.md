@@ -1,3 +1,4 @@
+Live App: https://app-diabetes-predict-vssd2lsegtxsuyviusjhla.streamlit.app/
 # 🩺 Diabetes Risk Prediction Using Machine Learning
 ## 📌 Project Overview
 Early detection of diabetes is critical for improving patient outcomes and enabling timely medical intervention. This project develops a machine learning classification model to predict the likelihood of diabetes based on patient clinical features.
